@@ -8,6 +8,8 @@
 Главная цель игры не пропустить мяч в свой край экрана, с помощю платформы вы можете помешать мячу попасть туда 
 Удачкой игры)
 
+*Эта игра была написана на Python с использованием Pygame
+
 Description of the game in English:
 
 This ping pong game is designed for two people
@@ -16,3 +18,5 @@ The second player controls his platform with up and down buttons
 The game continues until one of the players scores 5 points. 
 The main goal of the game is not to miss the ball to your edge of the screen, with the help of the platform you can prevent the ball from getting there
 Have a good game :)
+
+*This game was written in Python using Pygame
